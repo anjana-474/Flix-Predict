@@ -38,7 +38,6 @@ Designed as an end-to-end ML application, the project combines data preprocessin
 - Real-time recommendations
 - Smooth navigation between modules
 
----
 
 ## 🧠 Machine Learning Pipeline
 
@@ -58,7 +57,7 @@ Cosine Similarity Computation
 ↓
 Top-N Similar Movie Recommendations
 
-```id="4new0s"
+```
 
 ---
 
@@ -78,7 +77,7 @@ Recommendation Engine
 ↓
 Streamlit UI Display
 
-```id="j6t5ah"
+```
 
 ---
 
@@ -120,7 +119,7 @@ FlixPredict/
 ├── runtime.txt                # Python version for deployment
 └── README.md
 
-````id="q92k1r"
+````
 
 ---
 
@@ -135,20 +134,20 @@ cd Flix-Predict
 
 ### 2️⃣ Create Virtual Environment
 
-```bash id="olqpn5"
+```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
 ### 3️⃣ Install Dependencies
 
-```bash id="ae33o3"
+```bash
 pip install -r requirements.txt
 ```
 
 ### 4️⃣ Run Application
 
-```bash id="ctaj7z"
+```bash
 streamlit run main.py
 ```
 
@@ -205,5 +204,4 @@ This project demonstrates:
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-```
-```
+````
