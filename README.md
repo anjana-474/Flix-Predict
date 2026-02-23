@@ -193,5 +193,3 @@ This application is deployed using **Streamlit Cloud**.
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-icite:0]{index=0}
-```
