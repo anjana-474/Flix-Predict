@@ -38,6 +38,7 @@ Designed as an end-to-end ML application, the project combines data preprocessin
 - Real-time recommendations
 - Smooth navigation between modules
 
+---
 
 ## 🧠 Machine Learning Pipeline
 
@@ -188,20 +189,9 @@ This application is deployed using **Streamlit Cloud**.
 
 ---
 
-## 🚀 Why This Project
-
-This project demonstrates:
-
-* End-to-end ML workflow implementation
-* Practical NLP feature engineering
-* Real-world recommendation system design
-* Deployment-ready Streamlit application
-* Clean modular Python architecture
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-````
+icite:0]{index=0}
+```
