@@ -1,10 +1,3 @@
-Yes 👍 — here is your **FINAL README** with the badges added **correctly formatted** (this will look clean and professional on GitHub).
-
-Just **copy → paste directly** into `README.md`.
-
----
-
-```md id="pczhhy"
 # 🎬 FlixPredict — Intelligent Movie Recommendation System (ML + NLP)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
