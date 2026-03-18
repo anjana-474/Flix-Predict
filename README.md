@@ -1,8 +1,11 @@
-# 🎬 FlixPredict — Intelligent Movie Recommendation System (ML + NLP)
+<h1 align="center">🎬 FlixPredict — Intelligent Movie Recommendation System (ML + NLP)</h1>
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![ML](https://img.shields.io/badge/MachineLearning-NLP-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue" />
+  <img src="https://img.shields.io/badge/Streamlit-App-red" />
+  <img src="https://img.shields.io/badge/MachineLearning-NLP-green" />
+</p>
+<hr>
 
 🔗 **Live Demo:**  
 https://flix-predict-movie-recommender.streamlit.app/
